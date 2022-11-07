@@ -1,4 +1,4 @@
 package io.darkwings;
 
-public class user {
+public class random {
 }
